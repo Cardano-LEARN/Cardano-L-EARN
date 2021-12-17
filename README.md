@@ -26,6 +26,6 @@ Not sure how to start? Instructions are here:
 More coming soon!
 
 ## Join the community
-* [Spanish Telegram Channel ]()
-* [English Telegram Channel ](t.me/Cardano_L_EARN)
+* [Spanish Telegram Channel ](https://t.me/CardanoAprendeAGanar)
+* [English Telegram Channel ](https://t.me/Cardano_L_EARN)
 * 
