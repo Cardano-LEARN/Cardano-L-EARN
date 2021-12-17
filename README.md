@@ -21,10 +21,11 @@ Not sure how to start? Instructions are here:
 
 #### Español
 
-* [Introducción a Polkadot]() - 4 ADA
+* [Introducción a Cardano]() - 4 ADA
 
 More coming soon!
 
 ## Join the community
 * [Spanish Telegram Channel ]()
-* [English Telegram Channel ]()
+* [English Telegram Channel ](t.me/Cardano_L_EARN)
+* 
