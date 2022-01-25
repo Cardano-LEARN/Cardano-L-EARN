@@ -28,12 +28,12 @@ There are two layers to the Cardano blockchain:
 
 * The CSL contains the ledger of accounts and balances (and is where the transactions are validated by the Ouroboros consensus mechanism)
 * The CCL layer is where all the computations for apps running on the blockchain are executed — via the operations of smart contracts.
-* 
+
 The idea of splitting the blockchain into two layers is to help the Cardano network to process as many as a million transactions a second.
 
 Unlike Ethereum-based tokens, Cardano native tokens aren’t created via smart contract. Instead, they run on the same architecture as the ADA cryptocurrency itself.
 
-### What does Cardano do?What does Cardano do?
+### What does Cardano do?
 
 Cardano enables several different features on its platform:
 
