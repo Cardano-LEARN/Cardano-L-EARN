@@ -23,11 +23,8 @@ Not sure how to start? Instructions are here:
 #### Español
 
 * [Introducción a Cardano]() - 4 ADA
-<<<<<<< HEAD
 * [Contribuyendo con Cardano Aprende a ganar](https://github.com/Cardano-LEARN/Cardano-L-EARN/blob/main/Lessons/Español/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 5 ADA
-=======
-* [Contribuyendo con Cardano Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 5 ADA
->>>>>>> 173b51439c97beaf23e6c0a3ab9891dce3f01dd7
+
 
 More coming soon!
 
