@@ -1,21 +1,20 @@
-# Contribuyendo con BDU Aprende y gana.
+# Contribuyendo con Cardano Aprende y gana.
 
-Esta lección proporciona la información que necesitan saber para contribuir a BDU L-EARN.
+Esta lección proporciona la información que necesitan saber para contribuir a Cardano L-EARN.
 
 Todas nuestras lecciones están organizadas en GitHub haciendo uso del formato markdown (.md). Estas herramientas deben aprenderse antes de comenzar contribuir.
 
-Recompensa: 7.5 xDai
+Recompensa: 5 ADA
 
 
 
 ## Teoría
 
-### Becoming a Contributor
-Conviértete en un colaborador.
+### Convertirse en Contribuyente
 
 Cualquiera puede contribuir. Sólo necesitas poseer conocimientos valiosos, pasión por la educación y algunas habilidades básicas de GitHub.
 
-Si estás buscando una lección acerca de un tema determinado, pero no la encuentras publicada en BDU L-EARN, ¡considera hacerla tú mismo! La enseñanza es una de las formas más efectivas de aprender.
+Si estás buscando una lección acerca de un tema determinado, pero no la encuentras publicada en Cardano L-EARN, ¡considera hacerla tú mismo! La enseñanza es una de las formas más efectivas de aprender.
 
 Si estás familiarizado con GitHub y markdown, puedes comenzar a escribir lecciones, crear solicitudes de extracción, y también presentarlas como un tema de debate en los canales de la comunidad.
 
@@ -40,7 +39,7 @@ Básicamente, todo el texto en GitHub está escrito usando markdown.
 
 * [Revisa esta guía](https://lab.github.com/DeustoPWEB/comunicar-usando-markdown)
 
-### Recompensas de colaboradores
+### Recompensas de contribuyentes
 
 Tenemos algunas recompensas disponibles por contribuir lecciones de alta calidad. Las recompensas aumentarán a medida que el programa crezca. Puedes preguntar más detalles al respecto en los canales de la comunidad.
 

@@ -18,14 +18,16 @@ Not sure how to start? Instructions are here:
 #### English
 
 * [Intro to Cardano]() - 4 ADA
+* [Contributing to Cardano-L-EARN](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/English/L_EARN/Contributing/LCon1:Contributing.md) - 5 ADA
 
 #### Español
 
 * [Introducción a Cardano]() - 4 ADA
+* [Contribuyendo con Cardano Aprende a ganar](https://github.com/BlockDevsUnited/learn-and-earn/blob/master/Lessons/Espa%C3%B1ol/Aprende_y_Gana/Contributing/LCon1:Contribuyendo.md) - 7.5 xDai
 
 More coming soon!
 
 ## Join the community
 * [Spanish Telegram Channel ](https://t.me/CardanoAprendeAGanar)
 * [English Telegram Channel ](https://t.me/Cardano_L_EARN)
-* 
+*
