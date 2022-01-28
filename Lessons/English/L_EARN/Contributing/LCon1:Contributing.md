@@ -1,4 +1,4 @@
-# Contributing to Polkadot L-EARN
+# Contributing to Cardano L-EARN
 This lesson provides the information you need to know, to contribute to BDU L-EARN.
 
 All our lessons are organized on Github in markdown (.md) format. These tools must be learnt first before contributing.
